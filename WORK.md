@@ -14,7 +14,16 @@ Desarrollar una app móvil con React Native (Expo) que autentique usuarios vía 
 
 ## Configuración Inicial (Todos los integrantes)
 
-### 1. Clonar el repositorio
+### 0. Código hecho:
+
+Solo clonar y copiar y pegar los archivos y código que se les indica mas adelante.
+
+```bash
+git clone https://github.com/igrisdev/gestor-pinto-movil.git
+cd gestor-pinto-movil
+```
+
+### 1. Clonar el repositorio de que vamos a entregar
 ```bash
 git clone https://github.com/igrisdev/gestor-pinto-app.git
 cd gestor-pinto-app
